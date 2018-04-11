@@ -1,10 +1,4 @@
-
 body {
     padding-top: 200px;
-   /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-}
-
-footer {
-    padding-top: 100px;
-    margin: 50px 0;
+    /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
